@@ -1,4 +1,4 @@
-# Lab 05 RestAPI
+# Backend FastAPI
 
 ## Оглавление
 1. [Описание](#описание)
